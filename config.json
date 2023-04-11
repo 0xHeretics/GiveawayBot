@@ -1,6 +1,4 @@
 {
-    "token": "MTA4NzM2MDkzMjk0ODIzMDE4NA.G9S5zS.Vf3TUA06rnH_nCAiVH5wPPq3jVRbVBQYZ-IL7o",
-    "requiredRole": "ROLE_NAME",
-    "guildId": "1086672429725778030",
-    "requiredInvites": 5
+    "token": "[BOT TOKEN]",
+    "guildId": "[GUILD_ID]",
 }
